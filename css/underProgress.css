@@ -1,0 +1,30 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.fas {
+  padding: 2rem 0;
+}
+
+.fas:hover {
+  color: #e8505b;
+  transition: all 1s;
+  transform: scale(1.2);
+}
+
+h1 {
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 4rem auto ;
+}
+
+.construction {
+  display: flex;
+  justify-content: center;
+}
+
+
+img{
+  width: 40%;
+}
